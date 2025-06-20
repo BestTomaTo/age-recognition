@@ -1,3 +1,4 @@
-# Age&Face Recognition with AlexNet
+# Age Prediction and Age-Based Face Generation using GAN
 
-AlexNet과 UTKFace dataset을 이용한 나이&얼굴 검출기 코드
+{% include video id="OqjUXybqKE4" provider="youtube" %}
+
