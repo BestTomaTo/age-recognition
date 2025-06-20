@@ -15,7 +15,7 @@
     https://susanqq.github.io/UTKFace/
 
 2. haar-cascade (얼굴 인식기)
-   https://github.com/opencv/opencv/tree/master/data/haarcascades
+    https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 
 <br>
@@ -42,7 +42,7 @@ VGG16, Xception, AlexNet등 수업 때 배운 모델과 최신 모델을 활용�
 
 <br>
 
-모델 생성 epoch : 20
+모델 생성 epoch : 20 <br>
 ![alt text](readme/real_images-20.png)
 ![alt text](readme/fake_images-20.png)
 
